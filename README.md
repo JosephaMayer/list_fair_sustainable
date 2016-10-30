@@ -31,24 +31,25 @@ Fair Trade + Bio Material, Made in Germany.
 http://www.room-to-roam.com/store.html
 
 ## Schuhe
-### Avocadostore (Veja, Ethletic,...)
-http://www.avocadostore.de/c/28-damenmode-schuhe
-http://www.avocadostore.de/c/36-herrenmode-schuhe
+* Avocadostore (Veja, Ethletic,...)
+    * http://www.avocadostore.de/c/28-damenmode-schuhe
+    * http://www.avocadostore.de/c/36-herrenmode-schuhe
 
 ## Diverses
-### Memo:
+* Memo:
 FSC Möbel, Büromaterial, Umschläge aus recycelten Karten,...
 http://memo.de
 
-### Avocadostore:
+* Avocadostore:
 Einrichtung, Naturkosmetik, Tiernahrung, Gartenzubehör, Küchenzubehör, Hardwarezubehör,...
 http://www.avocadostore.de/c/3-wohnen-and-leben
 
 ## Outdoor:
-### Globetrotter
+* Globetrotter
 Gewisse Nachhaltigkeitsstandard bestimmter Marken, keine Daunen aus Lebendrupfungen, Faire Löhne der Mitarbeiter.
 Fairwear: http://www.fairwear.org/
-### Patagonia
-### Jack Wolfskin
-### Vaude: Green Shape (Innovatives Plastik oder Recyceltes Plastik)
-### Mammut
+
+* Patagonia
+* Jack Wolfskin
+* Vaude: Green Shape (Innovatives Plastik oder Recyceltes Plastik)
+* Mammut
