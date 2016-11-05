@@ -1,5 +1,7 @@
 # Liste Ökologischer und Fairer Produkte
 ## Bücher/DVDs/Vermischtes
+
+[![Join the chat at https://gitter.im/hhirsch/list_fair_sustainable](https://badges.gitter.im/hhirsch/list_fair_sustainable.svg)](https://gitter.im/hhirsch/list_fair_sustainable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * **Ecobookstore** https://www.ecobookstore.de
 * **Buch7** https://www.buch7.de
 
