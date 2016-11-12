@@ -5,6 +5,7 @@
 
 * **Ecobookstore** https://www.ecobookstore.de
 * **Buch7** https://www.buch7.de
+* **Greenpeace Warenhaus** https://www.greenpeace-magazin.de/warenhaus
 
 ## Kleider
 * **Armedangels**
