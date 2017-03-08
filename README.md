@@ -38,7 +38,7 @@ http://www.room-to-roam.com/store.html
 * **Avocadostore (Veja, Ethletic,...)**
     * http://www.avocadostore.de/c/28-damenmode-schuhe
     * http://www.avocadostore.de/c/36-herrenmode-schuhe
-
+* http://ethletic.com/
 ## Diverses
 * **Memo:**
 FSC Möbel, Büromaterial, Umschläge aus recycelten Karten,...
